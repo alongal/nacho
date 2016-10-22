@@ -1,12 +1,12 @@
 {
-    "name": "philipbrown/Nacho",
-    "description": "Nacho, nacho man. I want to be a nacho man",
+    "name": "alongal/nacho",
+    "description": "This is my first package for testing.",
     "license": "MIT",
     "keywords": ["nacho"],
     "authors": [
         {
-            "name": "Philip Brown",
-            "email": "name@domain.com"
+            "name": "Alon Gal",
+            "email": "alon@alongal.com.au"
         }
     ],
     "require": {},
