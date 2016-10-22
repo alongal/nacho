@@ -26,8 +26,8 @@
       <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            <state relative-caret-position="56">
+              <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -211,12 +211,12 @@
       <option name="presentableId" value="Default" />
       <updated>1477113803316</updated>
       <workItem from="1477113805179" duration="2231000" />
-      <workItem from="1477118137840" duration="342000" />
+      <workItem from="1477118137840" duration="556000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2573000" />
+    <option name="totallyTimeSpent" value="2787000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="833" extended-state="6" />
@@ -310,8 +310,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        <state relative-caret-position="56">
+          <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
           <folding />
         </state>
       </provider>
